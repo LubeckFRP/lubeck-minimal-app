@@ -2,12 +2,12 @@ name:                lubeck-minimal-app
 version:             0.1.0.0
 synopsis:            Initial project template from stack
 description:         Please see README.md
-homepage:            https://github.com/githubuser/lubeck-minimal-app#readme
-license:             BSD3
+homepage:            https://github.com/LubeckFRP/lubeck-minimal-app#readme
+license:             MIT
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
+author:              Hans Höglund
+maintainer:          hans@hanshoglund.se
+copyright:           2016 Hans Höglund
 category:            Web
 build-type:          Simple
 -- extra-source-files:
@@ -33,4 +33,4 @@ executable lubeck-minimal-app
 
 source-repository head
   type:     git
-  location: https://github.com/githubuser/lubeck-minimal-app
+  location: https://github.com/LubeckFRP/lubeck-minimal-app
